@@ -36,6 +36,7 @@ Polymorphism
 13. Power of compilation and interpretation: Most languages are designed with purpose either they are compiled language or they are interpreted language. But java integrates arising enormous power as Java compiler compiles the source code to bytecode and JVM  executes this bytecode to machine OS-dependent executable code.
 
 Java Terminology
+
 Before learning Java, one must be familiar with these common terms of Java.
 
 1.  Java Virtual Machine(JVM):  This is generally referred to as JVM. There are three execution phases of a program. They are written, compile and run the program.
